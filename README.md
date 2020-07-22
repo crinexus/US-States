@@ -3,7 +3,8 @@ Data on U.S. states, intended for use in other projects
 
 ### Quick Links ### 
 
-[U.S. States, abbreviations and population](https://raw.githubusercontent.com/crinexus/US-States/master/states-only/us-states.csv)
+[U.S. States, abbreviations and population](https://raw.githubusercontent.com/crinexus/US-States/master/states-only/us-states.csv)  
+[U.S. States (non-maritime) borders edgelist](https://github.com/crinexus/US-States/raw/master/states-only/us-states.edgelist)
 
 ### Versions ###
 
