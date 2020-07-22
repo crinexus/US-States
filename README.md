@@ -1,5 +1,13 @@
-# U.S. States Information
+# U.S. States Information #
 Data on U.S. states, intended for use in other projects
+
+### Quick Links ### (coming soon)
+
+### Versions ###
+
+Several flavors of this data are, or will be, available.  The current release is for U.S. States only, without the addition of commonweaths or U.S. territories.  Future releases will be available that includes these areas.  
+
+More granular county and city level versions planned for future releases.
 
 ### Notice ###
 
