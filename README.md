@@ -1,7 +1,9 @@
 # U.S. States Information #
 Data on U.S. states, intended for use in other projects
 
-### Quick Links ### (coming soon)
+### Quick Links ### 
+
+[U.S. States, abbreviations and population](https://raw.githubusercontent.com/crinexus/US-States/master/states-only/us-states.csv)
 
 ### Versions ###
 
