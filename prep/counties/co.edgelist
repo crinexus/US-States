@@ -1,0 +1,156 @@
+moffat,routt
+moffat,rio blanco
+routt,jackson
+routt,grand
+routt,eagle
+routt,garfield
+routt,rio blanco
+rio blanco,garfield
+garfield,eagle
+garfield,pitkin
+garfield,mesa
+eagle,grand
+eagle,summit
+eagle,lake
+eagle,pitkin
+jackson,larimer
+jackson,grand
+larimer,weld
+larimer,boulder
+larimer,grand
+grand,boulder
+grand,gilpin
+grand,clear creek
+grand,summit
+boulder,gilpin
+boulder,broomfield
+boulder,weld
+boulder,jefferson
+gilpin,jefferson
+gilpin,clear creek
+broomfield,weld
+broomfield,adams
+broomfield,jefferson
+weld,logan
+weld,morgan
+weld.adams
+sedgwick,phillips
+sedgwick,logan
+phillips,yuma
+phillips,logan
+logan,yuma
+logan,washington
+logan,morgan
+yuma,kit carson
+yuma,washington
+morgan,washington
+morgan,adams
+washington,kit carson
+washington,lincoln
+washington,arapahoe
+washington,adams
+denver,adams
+denver,arapahoe
+denver,jefferson
+adams,arapahoe
+clear creek,jefferson
+clear creek,park
+clear creek,summit
+summit,park
+summit,lake
+arapahoe,elbert
+arapahoe,douglas
+kit carson,cheyenne
+kit carson,lincoln
+cheyenne,kiowa
+cheyenne,lincoln
+kiowa,prowers
+kiowa,bent
+kiowa,otero
+kiowa,crowley
+kiowa,lincoln
+lincoln,crowley
+lincoln,elbert
+lincoln,el paso
+elbert,el paso
+elbert,douglas
+douglas,el paso
+douglas,teller
+douglas,jefferson
+jefferson,park
+park,teller
+park,fremont
+park,chaffee
+park,lake
+lake,chaffee
+lake,pitkin
+pitkin,chaffee
+pitkin,gunnison
+pitkin,mesa
+mesa,delta
+mesa,montrose
+delta,gunnison
+delta,montrose
+montrose,gunnison
+montrose,ouray
+montrose,san miguel
+ouray,gunnison
+ouray,hinsdale
+ouray,san juan
+ouray,san miguel
+gunnison,chaffee
+gunnison,saguache
+gunnison,hinsdale
+san miguel,san juan
+san miguel,dolores
+dolores,san juan
+dolores,montezuma
+montezuma,la plata
+la plata,san juan
+la plata,hinsdale
+la plata,archuleta
+hinsdale, saguache
+hinsdale,mineral
+hinsdale,archuleta
+hinsdale,san juan
+archuleta,mineral
+archuleta,rio grande
+archuleta,conejos
+mineral,saguache
+mineral,rio grande
+saguache,chaffee
+saguache,fremont
+saguache,custer
+saguache,huerfano
+saguache,alamosa
+saguache,rio grande
+fremont,teller
+fremont,el paso
+fremont,pueblo
+fremont,custer
+fremont,chaffee
+rio grande,conejos
+rio grande,alamosa
+alamosa,huerfano
+alamosa,costilla
+alamosa,conejos
+costilla,conejos
+costilla,huerfano
+costilla,las animas
+custer,pueblo
+custer,huerfano
+el paso,pueblo
+el paso,teller
+crowley,otero
+crowley,pueblo
+pueblo,otero
+pueblo,huerfano
+pueblo,las animas
+otero,bent
+otero,las animas
+huerfano,las animas
+baca,las animas
+baca, ment
+baca,prowers
+las animas,bent
+bent,prowers

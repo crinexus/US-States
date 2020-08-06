@@ -1,0 +1,220 @@
+lyon,osceola
+lyon,sioux
+osceola,dickinson
+osceola,o'brien
+sioux,o'brien
+sioux,plymouth
+plymouth,cherokee
+plymouth,woodbury
+o'brien,clay
+o'brien,cherokee
+dickinson,emmet
+dickinson,clay
+emmet,kossuth
+emmet,palo alto
+clay,palo alto
+clay,buena vista
+cherokee,buena vista
+cherokee,ida
+cherokee,woodbury
+buena vista,sac
+buena vista,pocahontas
+palo alto,kossuth
+palo alto,pocahontas
+pocahontas,humboldt
+pocahontas,webster
+pocahontas,calhoun
+sac,calhoun
+sac,carroll
+sac,crawford
+sac,ida
+ida,woodbury
+ida,crawford
+woodbury,monona
+kossuth,winnebago
+kossuth,hancock
+kossuth,humboldt
+humboldt,wright
+humboldt,webster
+calhoun,webster
+calhoun,greene
+calhoun,carroll
+webster,wright
+webster,hamilton
+webster,boone
+webster,greene
+winnebago,worth
+winnebago,hancock
+hancock,cerro gordo
+hancock,wright
+worth,mitchell
+worth,cerro gordo
+cerro gordo,mitchell
+cerro gordo,floyd
+cerro gordo,franklin
+wright,franklin
+wright,hamilton
+franklin,butler
+franklin,hardin
+allamakee,clayton
+allamakee,winneshiek
+winneshiek,fayette
+winneshiek,chickasaw
+winneshiek,howard
+howard,chickasaw
+howard,mitchell
+mitchell,floyd
+floyd,chickasaw
+floyd,butler
+clayton,dubuque
+clayton,delaware
+clayton,fayette
+fayette,buchanan
+fayette,bremer
+fayette,chickasaw
+chickasaw,bremer
+bremer,black hawk
+bremer,butler
+butler,black hawk
+butler,grundy
+buchanan,delaware
+buchanan,linn
+buchanan,benton
+buchanan,black hawk
+dubuque,jackson
+dubuque,jones
+dubuque,delaware
+delaware,jones
+delaware,linn
+jackson,clinton
+jackson,jones
+clinton,scott
+clinton,cedar
+clinton,jones
+jones,cedar
+jones,linn
+scott,muscatine
+scott,cedar
+muscatine,louisa
+muscatine,johnson
+muscatine,cedarcedar,johnson
+cedar,linn
+linn,johnson
+linn,benton
+johson,louisa
+johnson,washington
+johnson,iowa
+black hawk,benton
+black hawk,tama
+black hawk,grundy
+benton,iowa
+benton,tama
+iowa,washington
+iowa,keokuk
+iowa,poweshiek
+louisa,des moines
+louisa,henry
+louisa,washington
+des moines,lee
+des moines,henry
+henry,lee
+henry,van buren
+henry,jefferson
+henry,washington
+lee,van buren
+washington,jefferson
+washington,keokuk
+jefferson,van buren
+jefferson,wapello
+jefferson,keokuk
+van buren,davis
+davis,appanoose
+davis,wapello
+keokuk,wapello
+keokuk,mahaska
+keokuk,poweshiek
+grundy,tama
+grundy,marshall
+grundy,hardin
+tama,poweshiek
+tama,marshall
+hardin,marshall
+hardin,story
+hardin,hamilton
+hamilton,story
+hamilton,boone
+marshall,jasper
+marshall,story
+wapello,monroe
+wapello,mahaska
+poweshiek,mahaska
+poweshiek,jasper
+appanoose,wayne
+appanoose,monroe
+monroe,lucas
+monroe,mahaska
+monroe,marion
+wayne,decatur
+wayne,lucas
+mahaska,marion
+mahaska,jasper
+marion,lucas
+marion,warren
+marion,jasper
+warren,lucas
+warren,clarke
+warren,polk
+warren,madison
+lucas,clarke
+jasper,polk
+jasper,story
+story,polk
+story,boone
+polk,boone
+polk,dallas
+boone,dallas
+boone,greene
+monona,crawford
+monona,harrison
+crawford,carroll
+crawford,shelby
+crawford,harrison
+harrison,shelby
+harrison,pottawattamie
+pottawattamie,shelby
+pottawattamie,cass
+pottawattamie,montgomery
+pottawattamie,mills
+mills,montgomery
+mills,fremont
+fremont,page
+page,montgomery
+page,taylor
+taylor,ringgold
+taylor,adams
+ringgold,decatur
+ringgold,union
+decatur,clarke
+clarke,union
+clarke,madison
+dallas,madison
+dallas,guthrie
+dallas,greene
+madison,union
+madison,adair
+union,adams
+union,adair
+adams,adair
+adams,montgomer
+adams,cass
+cass,adair
+cass,montgomery
+cass,shelby
+cass,audubon
+adair,guthrie
+guthrie,audubon
+guthrie,carroll
+guthrie,greene
+carroll,greene
+carroll,audubon
+shelby,audubon

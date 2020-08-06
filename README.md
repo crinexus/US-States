@@ -12,6 +12,11 @@ Several flavors of this data are, or will be, available.  The current release is
 
 More granular county and city level versions planned for future releases.
 
+
+### Prep Code ###
+
+The files in the prep directory and subdirectories are not intended for direct use.  These files contain human-readable setup files to be parsed into program-usable formats.  The initial design for this was centered around the counties, where many states have counties with the exact same names.  FIPS numbers identify these counties uniquely, but are difficult to work with and debug for a person.  The conversion utility converts all counties into FIPS identifiers with county names only as labels for use in practice.
+
 ### Notice ###
 
 This is very much a rough-draft repository.  It's recommended that if using any of the data files in this, to not link directly to the raw files as they will most likely have locations in the directory structure moved as more data is added to this set.

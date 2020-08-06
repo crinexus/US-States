@@ -1,0 +1,192 @@
+benton,carroll
+benton,madison
+benton,washington
+washington,crawford
+washington,madison
+washington,carroll
+crawford,franklin
+crawford,sebastian
+sebastian,franklin
+sebastian,logan
+sebastian,scott
+franklin,madison
+franklin,johnson
+franklin,logan
+madison,carroll
+madison,newton
+madison,johnson
+carroll,boone
+carroll,newton
+boone,marion
+boone,searcy
+boone,newton
+newton,searcy
+newton,pope
+newton,johnson
+johnson,pope
+johnson,logan
+logan,yell
+logan,scott
+pope,yell
+pope,conway
+pope,van buren
+pope,searcy
+conway,yell
+conway,perry
+conway,faulkner
+conway,van buren
+van buren,searcy
+van buren,stone
+van buren,cleburne
+van buren,faulkner
+searcy,marion
+searcy,baxter
+searcy,stone
+marion,baxter
+baxter,fulton
+baxter,izard
+baxter,stone
+fulton,sharp
+fulton,izard
+izard,sharp
+izard,independence
+izard,stone
+stone,independence
+stone,cleburne
+cleburne,independence
+cleburne,white
+cleburne,faulkner
+faulkner,white
+faulkner,lonoke
+faulkner,pulaski
+faulkner,perry
+white,lonoke
+white,prairie,
+white,woodruff
+white,jackson
+white,independence
+independence,sharp
+independence,lawrence
+independence,jackson
+sharp,randolph
+sharp,lawrence
+randolph,clay
+randolph,greene
+randolph,lawrence
+clay,greene
+greene,craighead
+greene,lawrence
+lawrence,craighead
+lawrence,jackson
+craighead,mississippi
+craighead,poinsett
+craighead,jackson
+mississippi,crittenden
+mississippi,poinsett
+poinsett,crittenden
+poinsett,cross
+poinsett,jackson
+jackson,cross
+jackson,woodruff
+cross,crittenden
+cross,saint francis
+cross,woodruff
+crittenden,saint francis
+crittenen,lee
+woodruff,saint francis
+woodruff,monroe
+woodruff,prairie
+saint francis,lee
+saint francis, monroe
+lee,phillips
+lee,monroe
+phillips,desha
+phillips,arksansas
+phillips,monroe
+monroe,prairie
+monroe,arkansas
+prairie,arkansas
+prairie,lonoke
+lonoke,jefferson
+lonoke,pulaski
+arkansas,desha
+arkansas,lincoln
+arkansas,jefferson
+lincoln,desha
+lincoln,drew
+lincoln,cleveland
+lincoln,jefferson
+jefferson,cleveland
+jefferson,grant
+jefferson,pulaski
+pulaski,grant
+pulaski,saline
+pulaski,perry
+perry,saline
+perry,garland
+perry,yell
+yell,garland
+yell,montgomery
+yell,scott
+scott,montgomery
+scott,polk
+polk,montgomery
+polk,howard
+polk,sevier
+sevier,little river
+sevier,howard
+saline,grant
+saline,hot spring
+saline,garland
+garland,hot spring
+garland,montgomery
+montgomery,hot spring
+montgomery,clark
+montgomery,pike
+pike,howard
+pike,hempstead
+pike,nevada
+pike,clark
+howard,hempstead
+clark,hot spring
+clark,dallas
+clark,ouachita
+clark,nevada
+hot spring,grant
+hot spring,dallas
+grant,cleveland
+grant,dallas
+dallas,cleveland
+dallas,calhoun
+dallas,ouachita
+cleveland,drew
+cleveland,bradley
+cleveland,calhoun
+bradley,drew
+bradley,ashley
+bradley,union
+bradley,calhoun
+desha,chicot
+desha,drew
+chicot,drew
+chicot,ashley
+drew,ashley
+ashley,union
+calhoun,union
+calhoun,ouachita
+ouachita,union
+ouachita,columbia
+ouachita,nevada
+union,columbia
+nevada,hempstead
+nevada,lafayette
+nevada,columbia
+nevada,ouachita
+columbia,lafayette
+lafayette,miller
+lafayette,hempstead
+miller,little river
+miller,hempstead
+miller,lafayette
+little river,hempstead
+hempstead,nevada

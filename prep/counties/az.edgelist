@@ -1,0 +1,31 @@
+mohave,coconino
+mohave,yavapai
+mohave,la paz
+coconino,navajo
+coconino,gila
+coconino,yavapai
+navajo,apache
+navajo,graham
+navajo,gila
+apache,greenlee
+apache,graham
+yavapai,gila
+yavapai,maricopa
+yavapai,la paz
+la paz,maricopa
+la paz,yuma
+yuma,maricopa
+yuma,pima
+maricopa,gila
+maricopa,pinal
+maricopa,pima
+gila,graham
+gila,pinal
+graham,greenlee
+graham,cochise
+graham,pinal
+greenlee,cochise
+cochise,santa cruz
+cochise,pima
+pima,pinal
+pima,santa cruz

@@ -1,0 +1,137 @@
+del norte,siskiyou
+del norte,humboldt
+siskiyou,modoc
+siskiyou,shasta
+siskiyou,trinity
+siskiyou,humboldt
+modoc,siskiyou
+modoc,lassen
+modoc,shasta
+lassen,shasta
+lassen,plumas
+lassen,sierra
+shasta,plumas
+shasta,tehama
+shasta,trinity
+trinity,tehama
+trinity,mendocino
+trinity,humboldt
+humboldt,mendocino
+tehama,plumas
+tehama,butte
+tehama,glenn
+tehama,mendocino
+plumas,sierra
+plumas,yuba
+plumas,butte
+butte,yuba
+butte,sutter
+butte,colusa
+butte,glenn
+sierra,nevada
+sierra,yuba
+mendocino,glenn
+mendocino,lake
+mendocino,sonoma
+glenn,lake
+glenn,colusa
+yuba,nevada
+yuba,placer
+yuba,sutter
+lake,colusa
+lake,yolo
+lake,napa
+lake,sonoma
+nevada,placer
+colusa,sutter
+colusa,yolo
+placer,el dorado
+placer,sacramento
+placer,sutter
+sutter,sacramento
+sutter,yolo
+el dorado,alpine
+el dorado,amador
+el dorado,sacramento
+sonoma,napa
+sonoma,marin
+sonoma,solano
+yolo,napa
+yolo,sacramento
+yolo,solano
+napa,solano
+sacramento,amador
+sacramento,san joaquin
+sacramento,solano
+alpine,mono
+alpine,tuolumne
+alpine,calaveras
+alpine,amador
+amador,calaveras
+amador,san joaquin
+solano,contra costa
+marin,san francisco
+marin,contra costa
+mono,inyo
+mono,fresno
+mono,madera,
+mono,tuolumne
+calaveras,tuolumne
+calaveras,stanislaus
+calaveras,san joaquin
+tuolumne,madera
+tuolumne,mariposa
+tuolumne,stanislaus
+san joaquin, stanislaus
+san joaquin, alameda
+san joaquin, contra costa
+contra costa, alameda
+alameda, santa clara
+alameda,san mateo
+alameda,san francisco
+san francisco, san mateo
+san mateo,santa clara
+san mateo,santa cruz
+stanislaus,merced
+stanislaus,santa clara
+mariposa,madera
+mariposa,merced
+madera,fresno
+madera,merced
+merced,fresno
+merced,san benito
+merced,santa clara
+santa clara,santa cruz
+santa clara,san benito
+fresno, inyo
+fresno,tulare
+fresno,kings
+fresno,monterey
+fresno,san benito
+santa cruz, san benito
+santa cruz,monterey
+inyo,san bernardino
+inyo,tulare
+inyo,kern
+san benito,monterey
+tulare,kern
+tulare,kings
+monterey,kings
+monterey,san luis obispo
+kings,kern
+san luis obispo,kern
+san luis obispo,santa barbara
+kern, san bernardino
+kern, los angeles
+kern,ventura
+san bernardino,riverside
+san bernardino,orange
+san bernardino,los angeles
+santa barbara,ventura
+ventura, los angeles
+los angeles,orange
+orange,riverside
+orange,san diego
+riverside,san diego
+riverside,imperial
+san diego,imperial

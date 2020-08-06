@@ -1,0 +1,95 @@
+boundary,bonner
+bonner,kootenai
+bonner,shoshone
+kootenai,shoshone
+kootenai,benewah
+benewah,latah
+latah,clearwater
+latah,nez perce
+nez perce,clearwater
+nez perce,lewis
+nez perce,idaho
+clearwater,lewis
+clearwater,idaho
+idaho,lemhi
+idaho,valley
+idaho,adams
+idaho,lewis
+adams,valley
+adams,gem
+adams,washington
+valley,lemhi
+valley,custer
+valley,boise
+valley,gem
+washignton,gem
+washington,payette
+gem,boise
+gem,ada
+gem,canyon
+gem,payette
+canyon,ada
+canyon,owyhee
+canyon,payette
+boise,custer
+boise,elmore
+boise,ada
+ada,elmore
+ada,owyhee
+lemhi,clark
+lemhi,butte
+lemhi,custer
+custer,butte
+custer,blaine
+clark,fremont
+clark,jefferson
+clark,butte
+fremont,teton
+fremont,madison
+freemont,jefferson
+teton,bonneville
+teton,madison
+madison,bonneville
+madison,jefferson
+bonneville,caribou
+bonneville,bingham
+bonneville,jefferson
+butte,jefferson
+butte,bingham
+butte,blaine
+bingham,jefferson
+bingham,caribou
+bingham,bannock
+bingham,power
+bingham,blaine
+bear lake,caribou
+bear lake,franklin
+caribou,franklin
+caribou,bannock
+franklin,oneida
+franklin,bannock
+bannock,oneida
+bannock,power
+oneida,power
+oneida,cassia
+power,cassia
+power,blaine
+cassia,blaine
+cassia,twin falls
+cassia,minikoka
+cassia,jerome
+minidoka,blaine
+minidoka,jerome
+minidoka,lincoln
+blaine,lincoln
+blaine,camas
+lincoln,jerome
+lincoln,gooding
+lincoln,camas
+jerome,twin falls
+jerome,gooding
+camas,gooding
+camas,elmore
+gooding,twin falls
+twin falls,owyhee
+elmore,owyhee

@@ -1,0 +1,41 @@
+north slope,northwest arctic
+north slope,yukon-koyukuk
+northwest arctic,nome
+northwest arctic,yukon-koyukuk
+yukon-koyukuk,southeast fairbanks
+yukon-koyukuk,fairbanks north star
+yukon-koyukuk,bethel
+yukon-koyukuk,kusilvak
+yukon-koyukuk,nome
+nome,kusilvak
+fairbanks north star,southeast fairbanks
+fairbanks north star,denali
+southeast fairbanks,valdez-cordova
+southeast fairbanks,denali
+southeast fairbanks,matanuska-susitna
+denali,matanuska-susitna
+kusilvak,bethel
+bethel,dillingham
+bethel,lake & peninsula
+dillingham,lake & peninsula
+lake & peninsula,bristol bay
+lake & peninsula,aleutians east
+lake & peninsula,kodiak island
+lake & peninsula,kenai peninsula
+anchorage,kenai peninsula
+anchorage,matanuksa-susitna
+anchorage,valdez-cordova
+valdez-cordova,matanuska-susitna
+valdez-cordova,yakutat
+yakutat,hoonah-angoon
+hoonah-angoon,haines
+hoonah-angoon,sitka
+hoonah-angoon,juneau
+juneau,petersburg
+haines,skagway
+haines,juneau
+petersburg,wrangell
+wrangell,prince of wales-hyder
+wrangell,ketchikan gateway
+ketchikan gateway,prince of wales-hyder
+aleutians east,aleutians west

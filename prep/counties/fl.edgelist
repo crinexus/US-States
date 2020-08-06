@@ -1,0 +1,143 @@
+escambia,santa rosa
+santa rosa,okaloosa
+okaloosa,walton
+walton,holmes
+walton,washington
+walton,bay
+holmes,jackson
+holmes,washington
+washington,jackson
+washington,bay
+bay,jackson
+bay,calhoun
+bay,gulf
+jackson,gadsden
+jackson,calhoun
+calhoun,gadsden
+calhoun,liberty
+calhoun,gulf
+gulf,liberty
+gulf,franklin
+gadsden,leon
+gadsden,liberty
+liberty,leon
+liberty,wakulla
+liberty,franklin
+franklin,wakulla
+leon,jefferson
+leon,wakulla
+wakulla,jefferson
+jefferson,madison
+jefferson,taylor
+madison,hamilton
+madison,suwannee
+madison,lafayette
+madison,taylor
+taylor,lafayette
+taylor,dixie
+hamilton,columbia
+hamilton,suwannee
+suwannee,columbia
+suwannee,gilchrist
+suwannee,lafayette
+columbia,baker
+columbia,union
+columbia,alachua
+columbia,gilchrist
+baker,nassau
+baker,duval
+baker,clay
+baker,bradford
+baker,union
+nassau,duval
+duval,st. johns
+duval,clay
+st. johns,flagler
+st. johns,putnam
+st. johns,clay
+clay,putnam
+clay,bradford
+union,bradford
+union,alachua
+bradford,alachua
+alachua,putnam
+alachua,marion
+alachua,gilchrist
+alachua,levy
+gilchrist,lafayette
+gilchrist,levy
+gilchrist,dixie
+lafayette,dixie
+dixie,levy
+levy,marion
+levy,citrus
+putnam,flagler
+putnam,volusia
+putnam,marion
+flagler,volusia
+volusia,brevard
+volusia,seminole
+volusia,marion
+volusia,orange
+volusia,lake
+marion,lake
+marion,sumter
+marion,citrus
+lake,seminole
+lake,orange
+lake,polk
+lake,sumter
+seminole,orange
+citrus,sumter
+citrus,hernando
+sumter,hernando
+sumter,polk
+sumter,pasco
+orange,brevard
+orange,osceola
+hernando,pasco
+pasco,pinellas
+pasco,hillsborough
+pasco,polk
+brevard,indian river
+brevard,osceola
+osceola,indian river
+osceola,okeechobee
+osceola,polk
+polk,highlands
+polk,hardee
+polk,hillsborough
+hillsborough,pinellas
+hillsborough,manatee
+indian river,st. lucie
+indian river,okeechobee
+st. lucie,martin
+st. lucie,okeechobee
+okeechobee,martin
+okeechobee,glades
+okeechobee,highlands
+highlands,glades
+highlands,desoto
+highlands,hardee
+hardee,desoto
+hardee,manatee
+manatee,desoto
+manatee,sarasota
+desoto,charlotte
+desoto,sarasota
+sarasota,charlotte
+charlotte,glades
+charlotte,lee
+glades,hendry
+martin,palm beach
+palm beach,broward
+palm beach,hendry
+hendry,broward
+hendry,collier
+hendry,lee
+lee,collier
+collier,broward
+collier,miami-dade
+collier,monroe
+broward,miami-dade
+miami-dade,monroe
