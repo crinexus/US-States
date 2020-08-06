@@ -5,6 +5,8 @@
 ### Introduction ###
 This is a simple CSV file containing data for the U.S. States, with state abbreviations and populations.  It is designed for a quick setup of dataframes or Python dictionaries used in conjunction with other data for state-based research.  All files in this set contain only information for the 50 U.S. States and District of Columbia, and do not include U.S. Territories or Commonwealths.
 
+The edgelist is designed for use with NetworkX and has all of the states with shared land borders.  Maritime borders are not included in this list.
+
 
 ### Sources ###
 The populations for this are taken directly from the U.S. Census data, and uses the 2019 population estimate.  
